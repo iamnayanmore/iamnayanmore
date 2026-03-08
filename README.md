@@ -1,6 +1,13 @@
 # 💫 About Me:
-Full-Stack Developer | 5 YOE | React · Next.js · Node.js · Express
-Building products & contributing to open source 🚀
+🚀 Full-Stack Developer with 5+ years of experience working on production-grade systems.
+
+⚙️ Comfortable across the stack with **React, Next.js, TanStack, Node.js, Express, and NestJS**, and experienced working with **PostgreSQL and MongoDB**. I’ve built and maintained backend systems, APIs, and data-heavy applications using tools like **Sequelize**.
+
+🧠 I approach development with an **engineering mindset** — focusing on **system design, performance, reliability, and long-term maintainability**. My work often involves improving existing systems, solving complex production issues, and ensuring software can scale.
+
+🐳 I’ve also worked with **Docker** and **Kubernetes ☸️** for containerized deployments and have integrated **AI 🤖** capabilities into applications where they create real product value.
+
+✨ I enjoy building thoughtful, well-engineered systems that make a meaningful difference for the people who use them.
 
 
 ## 🌐 Socials:
